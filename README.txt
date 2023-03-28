@@ -1,5 +1,6 @@
 # FinalProjectCIS114
 Final html website for CIS114
+David McDonough & Bobby Teichert
 
 At least 7 total pages
 One page must be a grid of products or items (created using Flexbox or CSS Grid)
